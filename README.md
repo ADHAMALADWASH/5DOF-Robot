@@ -21,6 +21,4 @@ to explore the mathematical foundations of robot kinematics and motion planning.
 - [ ] Build custom C++ control nodes
 - [ ] Physics-based simulation in Gazebo
 
-## Demo
 
-[Insert video/GIF of path-planning execution]
